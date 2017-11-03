@@ -17,7 +17,7 @@
                 <div class="location-info black">
                     <h4><i class="fa fa-map-marker fa-fw pull-left fa-2x"></i>8 Norris Street<br>Cairns, Qld 4870</h4><br/>
                     <h4><i class="fa fa-envelope-o fa-fw pull-left fa-2x"></i>richardowenpainting@gmail.com</h4><br/><br/>
-                    <h4><i class="fa fa-phone fa-fw pull-left fa-2x"></i>+61 666 666 666</h4>
+                    <h4><i class="fa fa-phone fa-fw pull-left fa-2x"></i>0409 484 488</h4>
                 </div>
             </div>
 

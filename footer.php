@@ -41,6 +41,16 @@
             <!-- Spacer -->
             <div class="col-md-3"></div>
 
+            <!-- Business Footer -->
+            <div class="col-md-12 text-center">
+                <div class="mobile_legal">
+                    <br/>
+                    <br/>
+                    <div>BSA : 1078921</div>
+                    <div>ABN : 69 126 372 209</div>
+                </div>
+            </div>
+
             <!-- Copyright Footer -->
             <div class="col-md-12 text-center">
                 <div class="mobile_legal">
